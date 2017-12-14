@@ -1,0 +1,28 @@
+body {
+	background-color: #f1f1f1;
+}
+
+#nym-content {
+	position: relative;
+  	float: left;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
+
+#nym-header {
+	width: 50%;
+	height: 100px;
+	background-color: #602d6c;
+	margin: 0 auto;
+	text-align: center;
+	vertical-align: middle;
+	padding: 15px;
+}
+
+#nym-text {
+	color: yellow;
+	font-size: 4em;
+	text-shadow: 4px 4px black;
+	font-style: bold;
+}
